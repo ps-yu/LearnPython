@@ -1,0 +1,3 @@
+New data will be added and the old data will be lost.New data will be added to the file
+ New data will be added to the file
+ Write one more line to the file
