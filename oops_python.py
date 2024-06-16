@@ -64,6 +64,9 @@ class Car:
 
 
 # Example usage:
+def area(l1, l2):
+    return l1 * l2
+
 
 s1 = Car("Nissan", "2012", "white")
 s1.get_properties()
