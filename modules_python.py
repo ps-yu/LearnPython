@@ -2,8 +2,8 @@
 Modules are pre- written functions present python
 """
 import math
-import oops_python
-from oops_python import area
+import oops_1_python
+from oops_1_python import area
 
 print(math.sin(60))
 
